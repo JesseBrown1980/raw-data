@@ -1,0 +1,36 @@
+RECORDS|n=2485|json=0
+TOKENS|out=1174706|in=1311|cache_create=8779929|cache_read=311973299|json=0
+
+SPAWNS|total=2|json=0
+  SPAWN|tool=Workflow|subagent=-|count=2|json=0
+
+TOOLUSE|distinct=18|json=0
+  TOOL|PowerShell|n=112|json=0
+  TOOL|Write|n=68|json=0
+  TOOL|Edit|n=44|json=0
+  TOOL|Bash|n=39|json=0
+  TOOL|Read|n=10|json=0
+  TOOL|WebFetch|n=8|json=0
+  TOOL|WebSearch|n=7|json=0
+  TOOL|mcp__claude_ai_Google_Drive__search_files|n=7|json=0
+  TOOL|ToolSearch|n=6|json=0
+  TOOL|SendUserFile|n=4|json=0
+  TOOL|Workflow|n=2|json=0
+  TOOL|mcp__asolaria-fabric__asolaria_fabric_health|n=1|json=0
+  TOOL|AskUserQuestion|n=1|json=0
+  TOOL|mcp__claude_ai_Gmail__search_threads|n=1|json=0
+  TOOL|mcp__claude-in-chrome__tabs_context_mcp|n=1|json=0
+  TOOL|mcp__claude-in-chrome__navigate|n=1|json=0
+  TOOL|mcp__claude-in-chrome__get_page_text|n=1|json=0
+  TOOL|mcp__claude-in-chrome__computer|n=1|json=0
+
+MUTATIONS|gh_api_writes=1|json=0
+WRITES|n=112|json=0
+  EXT|.py|n=64|json=0
+  EXT|.rs|n=20|json=0
+  EXT|.md|n=16|json=0
+  EXT|.toml|n=5|json=0
+  EXT|.txt|n=4|json=0
+  EXT|.flowe|n=1|json=0
+  EXT|.html|n=1|json=0
+  EXT|.hbp|n=1|json=0

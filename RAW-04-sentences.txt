@@ -1,0 +1,56 @@
+HITS|raw=27|unique_sentences=27|json=0
+
+HIT|pattern=doesn't exist|agent=agent-a1cd77c53d23e905|json=0
+   omnidispatcher.mjs doesn't exist anywhere under C:\asolaria-acer.
+HIT|pattern=not real|agent=agent-a82ca471d06ed88f|json=0
+   No secrets or third-party PII observed — the "worker" names (Dirac, Arendt, Lovelace, Locke, Euclid, etc.) are internal agent code-names, not real people.
+HIT|pattern=decorative|agent=agent-ad54e3f308bb7a45|json=0
+   The 4-floor Omega ladder is *printed only* (commitment/decorative) and never enters the archive or the codec bytes — charged nothing, transmits nothing.
+HIT|pattern=placeholder|agent=agent-ad54e3f308bb7a45|json=0
+   **a_views_real = TRUE**: `a_ap`/`a_in` and all helpers (`g_r`,`g_n`,`xd`,`xu`,`rol`,`ror`,`blkrev`,`evo`,`uevo`,`qpo`,`qp`,`uqp`) are byte-identical to `unified_omega.rs` lines 91-108 — real id/reverse/xor-delta/rev-rot/nibble/blkrev/evenodd/qprism, not order-k placeholders.
+HIT|pattern=doesn't exist|agent=agent-a521cc8bba4dafd6|json=0
+   The path doesn't exist at that exact location.
+HIT|pattern=doesn't exist|agent=agent-a236e343c306708d|json=0
+   Clean worktree, file doesn't exist yet (as expected — new file).
+HIT|pattern=unverifiable|agent=agent-a0a8385279aad232|json=0
+   I'll verify a few of the more unusual/unverifiable-looking citations before finalizing my findings, since I have web search available and the task calls for checking whether scout findings are presented stronger than verified.
+HIT|pattern=no evidence|agent=agent-aa742f37d120dac4|json=0
+   No evidence found that GKR's own paper demonstrated physical hardware.
+HIT|pattern=simulated|agent=agent-af76fcb84525fc1a|json=0
+   ## Lane C8 Findings: Periodic/toroidal or spherical boundary conditions in simulated lattice systems
+HIT|pattern=no such|agent=agent-a19f9472f3cb8dd5|json=0
+   `lighthouse.py` (181 lines) has no eigenvalue/spectrum code and no such values.
+HIT|pattern=not materialized|agent=agent-ac2ee992c19bb0f8|json=0
+   Let me read it plus the README to understand the repo's framing and find the "addressing capacity, not materialized storage" line.
+HIT|pattern=mock|agent=agent-a0ddc0d6a9ca41b9|json=0
+   Recall :4796 confirmed ALIVE — it's the real Rust recall-serve engine (note the native HBP hot-path error `HILBRAERR|...|json=0`, not JSON — confirming the real engine, not a mock).
+HIT|pattern=mock|agent=agent-a0ddc0d6a9ca41b9|json=0
+   **Verified MEASURED (spot-checks passed):** - recall :4796 ALIVE — curl 200 + it's the real Rust recall-serve engine (native HBP hot-path errors `HILBRAERR|...|json=0`, not JSON — a mock wouldn't emit tuples).
+HIT|pattern=placeholder|agent=agent-ac98dc982a655a7d|json=0
+   Kernel shim (207 LOC, no_std scaffold, ONNX placeholder + deterministic fallback), oracle (601 LOC), and the CI (1.81 + 4 cargo steps + no-bloat) all confirmed.
+HIT|pattern=mock|agent=agent-a5ced226c703bf3e|json=0
+   The full-disk find is still scanning but the key evidence is in: fabric LIVE-acked the AoT envelope, the canon doc exists on disk, and the runtime executor is mock-only/proposal-gated.
+HIT|pattern=doesn't exist|agent=agent-a6cbf532edf5585d|json=0
+   The Bash tool is Git Bash, not WSL — `/mnt/c` doesn't exist here (my first cat only worked via the `C:/` fallback).
+HIT|pattern=placeholder|agent=agent-ab3a26d36a6aaffe|json=0
+   - Rust-8 subspec: BEHCS-1024 prefix-tree branch=1024, depth K=20, ceiling 10^60, `resolve_label → u64` 8-byte handle; Phase-1 FNV-1a-64 placeholder, reverse `label_for_handle=BranchEmpty` (deferred to Phase-2 Brown-Hilbert allocator).
+HIT|pattern=placeholder|agent=agent-ad89081233b4f99e|json=0
+   crypto sign/verify are Phase-1 sha256-derived placeholders — ed25519-dalek deferred to v0.2 (UNVERIFIED/gated).
+HIT|pattern=no such|agent=agent-a0963c422f442e13|json=0
+   - **supervisors vs profs split, loaded vs claimed vs pending_missing, quintet_full:** **NOT in this file** — no such fields/rows exist.
+HIT|pattern=just a hash|agent=agent-a29754e72f635cb7|json=0
+   Dual-lens read: this is genuinely lossless *recovery* (the exact original comes back) — so it is **not "just a hash"** in the deflationary sense; it is a content-address into a retained store.
+HIT|pattern=just a hash|agent=agent-a29754e72f635cb7|json=0
+   The exact original is recoverable by hash-addressing a retained store — a genuine lossless re-relation (not "just a hash"), but **not** lossless compression and **not** an invertible codec.
+HIT|pattern=just a hash|agent=agent-a74775cfff75c034|json=0
+   Dual-lens held: I neither inflate to "beats Shannon" nor deflate the addressed-recovery + two-shadow result to "just a hash."
+HIT|pattern=just a hash|agent=agent-acaa40e03c777019|json=0
+   DUAL-LENS check: the doc does NOT claim to beat Shannon (it explicitly denies it), and it is NOT "just a hash" — the addressed 0-loss recovery (`H(content|store)=0`) plus the groupoid re-relation is a real, precise result.
+HIT|pattern=doesn't exist|agent=agent-afa532f2921c39c6|json=0
+   Let me search more broadly to confirm it doesn't exist under a variant name or path.
+HIT|pattern=placeholder|agent=agent-a03e7a93e88e5438|json=0
+   The `.ralph/loop-generation.sh` body is a stub (`# placeholder: real impl invokes Claude`).
+HIT|pattern=doesn't exist|agent=agent-a5737e1860ad8a12|json=0
+   The crate directory doesn't exist yet.
+HIT|pattern=doesn't exist|agent=agent-ae2782ab3d88141d|json=0
+   The target directory doesn't exist yet.

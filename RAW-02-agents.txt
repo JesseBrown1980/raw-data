@@ -1,0 +1,85 @@
+WORKFLOW|name=fable5-matrix-load-universe-qprism-tongues|script_bytes=10958|agent_calls_in_script=4|phases=Books,Prism,Tongues,Verify|json=0
+WORKFLOW|name=fable5-combined-book-of-laws-read|script_bytes=6783|agent_calls_in_script=2|phases=Laws,Critic|json=0
+
+AGENTFILES|n=590|json=0
+  AGENTFILE|agent-a279e831cd17af88e.jsonl|bytes=3881665|json=0
+  AGENTFILE|agent-a003f7ec93032b97a.jsonl|bytes=2607464|json=0
+  AGENTFILE|journal.jsonl|bytes=607327|json=0
+  AGENTFILE|journal.jsonl|bytes=590192|json=0
+  AGENTFILE|agent-adc88d9d7ef056e67.jsonl|bytes=560018|json=0
+  AGENTFILE|agent-ad84ee066e4220370.jsonl|bytes=546654|json=0
+  AGENTFILE|agent-a0716ed43e60c9ddd.jsonl|bytes=501925|json=0
+  AGENTFILE|agent-a092adda84b7ef20f.jsonl|bytes=500744|json=0
+  AGENTFILE|agent-a2b5205f0d2dde97e.jsonl|bytes=494843|json=0
+  AGENTFILE|agent-a5f5a3a285e8ec4bc.jsonl|bytes=488584|json=0
+  AGENTFILE|agent-ad74ebd167e028577.jsonl|bytes=483020|json=0
+  AGENTFILE|agent-a6422d44f2af7f394.jsonl|bytes=479562|json=0
+  AGENTFILE|agent-a29754e72f635cb71.jsonl|bytes=476176|json=0
+  AGENTFILE|journal.jsonl|bytes=472006|json=0
+  AGENTFILE|agent-a9086c7174e31d376.jsonl|bytes=465028|json=0
+  AGENTFILE|agent-a80ea61ec20bcc745.jsonl|bytes=440820|json=0
+  AGENTFILE|agent-a783fe49bc143d49e.jsonl|bytes=435650|json=0
+  AGENTFILE|agent-a621b412d92f5eb90.jsonl|bytes=427155|json=0
+  AGENTFILE|agent-a4aa2b68148061218.jsonl|bytes=425804|json=0
+  AGENTFILE|agent-a52f70a47e3e78645.jsonl|bytes=419087|json=0
+  AGENTFILE|agent-a3fe853e723b2f40b.jsonl|bytes=407056|json=0
+  AGENTFILE|agent-aa7a665d6b48955cd.jsonl|bytes=406996|json=0
+  AGENTFILE|agent-adb5e5ad8524a6366.jsonl|bytes=398790|json=0
+  AGENTFILE|agent-a214b97443c4da719.jsonl|bytes=398550|json=0
+  AGENTFILE|agent-a213072ba106f80af.jsonl|bytes=393685|json=0
+AGENTBYTES|total=17308801|json=0
+
+JOURNAL|C:\Users\acer\.claude\projects\C--Users-acer\241514d7-2857-430c-a0d5-8904431498e4\subagents\workflows\wf_263f4c99-fe9\journal.jsonl|json=0
+  ENTRY|label=a14e5293d92f81fc7|result_bytes=0|json=0
+  ENTRY|label=a39467eae7de1968e|result_bytes=0|json=0
+  ENTRY|label=a04275d20e3fc69ed|result_bytes=0|json=0
+  ENTRY|label=aec7137ee779cbed5|result_bytes=0|json=0
+  ENTRY|label=a8fdb15d58bcaa57f|result_bytes=0|json=0
+  ENTRY|label=a8fdb15d58bcaa57f|result_bytes=10637|json=0
+  ENTRY|label=a908dc6438c5c69ba|result_bytes=0|json=0
+  ENTRY|label=a39467eae7de1968e|result_bytes=8774|json=0
+  ENTRY|label=acbe1da25e8442d9d|result_bytes=0|json=0
+  ENTRY|label=acbe1da25e8442d9d|result_bytes=2438|json=0
+  ENTRY|label=a908dc6438c5c69ba|result_bytes=5096|json=0
+  ENTRY|label=a14e5293d92f81fc7|result_bytes=8527|json=0
+  ENTRY|label=ac3664f0f124aaa50|result_bytes=0|json=0
+  ENTRY|label=a04275d20e3fc69ed|result_bytes=12994|json=0
+  ENTRY|label=a5043c2c0da558c4c|result_bytes=0|json=0
+  ENTRY|label=a5043c2c0da558c4c|result_bytes=2012|json=0
+  ENTRY|label=ac3664f0f124aaa50|result_bytes=2757|json=0
+  ENTRY|label=aec7137ee779cbed5|result_bytes=10290|json=0
+  ENTRY|label=aabe772ebbf8de303|result_bytes=0|json=0
+  ENTRY|label=aabe772ebbf8de303|result_bytes=5150|json=0
+  ENTRIES|n=20|json=0
+
+JOURNAL|C:\Users\acer\.claude\projects\C--Users-acer\241514d7-2857-430c-a0d5-8904431498e4\subagents\workflows\wf_29842f03-873\journal.jsonl|json=0
+  ENTRY|label=a3f25f3386fd12470|result_bytes=0|json=0
+  ENTRY|label=a213a00bdb32f991c|result_bytes=0|json=0
+  ENTRY|label=addc984c3813e9137|result_bytes=0|json=0
+  ENTRY|label=addc984c3813e9137|result_bytes=2855|json=0
+  ENTRY|label=a213a00bdb32f991c|result_bytes=5529|json=0
+  ENTRY|label=a3f25f3386fd12470|result_bytes=3642|json=0
+  ENTRIES|n=6|json=0
+
+JOURNAL|C:\Users\acer\.claude\projects\C--Users-acer\241514d7-2857-430c-a0d5-8904431498e4\subagents\workflows\wf_7cf3df7a-7b5\journal.jsonl|json=0
+  ENTRY|label=a1cd77c53d23e9051|result_bytes=0|json=0
+  ENTRY|label=a5aa7a68e4eb6131b|result_bytes=0|json=0
+  ENTRY|label=a6d9dc1c28cf9c785|result_bytes=0|json=0
+  ENTRY|label=a5aa7a68e4eb6131b|result_bytes=19782|json=0
+  ENTRY|label=a6d9dc1c28cf9c785|result_bytes=7542|json=0
+  ENTRY|label=a1cd77c53d23e9051|result_bytes=8243|json=0
+  ENTRY|label=ab4b3aaee67c2a7f4|result_bytes=0|json=0
+  ENTRY|label=a9a1f9c201357066d|result_bytes=0|json=0
+  ENTRY|label=a50b17419aa0913fc|result_bytes=0|json=0
+  ENTRY|label=a3ff9c022b6ae0e5e|result_bytes=0|json=0
+  ENTRY|label=a39efdfdad63043c2|result_bytes=0|json=0
+  ENTRY|label=a86b5eaa44a8af5af|result_bytes=0|json=0
+  ENTRY|label=a86b5eaa44a8af5af|result_bytes=2084|json=0
+  ENTRY|label=a50b17419aa0913fc|result_bytes=7120|json=0
+  ENTRY|label=a9a1f9c201357066d|result_bytes=3661|json=0
+  ENTRY|label=a3ff9c022b6ae0e5e|result_bytes=3332|json=0
+  ENTRY|label=a39efdfdad63043c2|result_bytes=5363|json=0
+  ENTRY|label=ab4b3aaee67c2a7f4|result_bytes=4465|json=0
+  ENTRY|label=a53052a38c311f1f0|result_bytes=0|json=0
+  ENTRY|label=a53052a38c311f1f0|result_bytes=5316|json=0
+  ENTRIES|n=20|json=0

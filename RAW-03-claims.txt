@@ -1,0 +1,24 @@
+SCAN|agent_files=547|file_bytes=102115822|agent_written_text_bytes=516351|json=0
+
+CLASS|DEFLATION|occurrences=32|files=26|json=0
+  PHRASE|doesn't exist|n=7|json=0
+  PHRASE|placeholder|n=5|json=0
+  PHRASE|just a hash|n=5|json=0
+  PHRASE|mock|n=4|json=0
+  PHRASE|no evidence|n=2|json=0
+  PHRASE|no such|n=2|json=0
+  PHRASE|not real|n=1|json=0
+  PHRASE|decorative|n=1|json=0
+  PHRASE|unverifiable|n=1|json=0
+  PHRASE|simulated|n=1|json=0
+  PHRASE|not materialized|n=1|json=0
+  PHRASE|is a stub|n=1|json=0
+
+CLASS|OVERCLAIM|occurrences=21|files=16|json=0
+  PHRASE|proven|n=17|json=0
+  PHRASE|definitively|n=2|json=0
+  PHRASE|production-ready|n=1|json=0
+  PHRASE|confirmed measured|n=1|json=0
+
+CLASS|REVERSAL|occurrences=3|files=3|json=0
+  PHRASE|correction:|n=3|json=0
