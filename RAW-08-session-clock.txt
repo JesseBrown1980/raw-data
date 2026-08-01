@@ -1,0 +1,7 @@
+SESSION|first=2026-07-31 15:53|last=2026-08-01 10:01|span_hours=18.13|events=1931|json=0
+USERTURNS|n=511|json=0
+GAPS|>=45min=3|max_min=427|json=0
+  GAP|from=07-31 17:51|to=07-31 20:30|minutes=159|json=0
+  GAP|from=07-31 22:29|to=08-01 05:36|minutes=427|json=0
+  GAP|from=08-01 07:27|to=08-01 08:35|minutes=68|json=0
+HOURS|05:22 06:61 07:17 08:40 09:82 10:4 15:8 16:95 17:34 20:50 21:42 22:56|json=0

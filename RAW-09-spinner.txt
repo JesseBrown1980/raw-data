@@ -1,0 +1,13 @@
+BINARY|C:\Users\acer\.local\bin\claude.exe|bytes=265720480|json=0
+OCCURRENCES|needle=Scheming|n=0|json=0
+BINARY|C:\Users\acer\.local\bin\claude.exe|bytes=265720480|json=0
+WORD|Contemplating|count=3|json=0
+WORD|Ruminating|count=3|json=0
+WORD|Deliberating|count=3|json=0
+WORD|Scheming|count=0|json=0
+WORD|Pondering|count=3|json=0
+WORD|Percolating|count=3|json=0
+WORD|Thinking|count=241|json=0
+OFFSET|225286856|json=0
+LIST_UNIQUE|173|json=0
+Accomplishing, Actioning, Actualizing, Architecting, Beaming, Befuddling, Billowing, Blanching, Bloviating, Boogieing, Boondoggling, Booping, Bootstrapping, Brewing, Bunning, Burrowing, Calculating, Canoodling, Caramelizing, Cascading, Catapulting, Cerebrating, Channeling, Channelling, Choreographing, Churning, Clauding, Coalescing, Cogitating, Combobulating, Composing, Computing, Concocting, Considering, Contemplating, Cooking, Crafting, Creating, Crunching, Crystallizing, Cultivating, Deciphering, Deliberating, Determining, Discombobulating, Doodling, Drizzling, Effecting, Elucidating, Embellishing, Enchanting, Envisioning, Fermenting, Finagling, Flibbertigibbeting, Flowing, Flummoxing, Fluttering, Forging, Forming, Frolicking, Frosting, Gallivanting, Galloping, Garnishing, Generating, Gesticulating, Germinating, Gitifying, Grooving, Gusting, Harmonizing, Hashing, Hatching, Herding, Honking, Hullaballooing, Hyperspacing, Ideating, Imagining, Improvising, Incubating, Inferring, Infusing, Ionizing, Jitterbugging, Julienning, Kneading, Leavening, Levitating, Lollygagging, Manifesting, Marinating, Meandering, Metamorphosing, Misting, Moonwalking, Moseying, Mulling, Mustering, Nebulizing, Nesting, Newspapering, Noodling, Nucleating, Orbiting, Orchestrating, Osmosing, Perambulating, Percolating, Perusing, Philosophising, Photosynthesizing, Pollinating, Pondering, Pontificating, Pouncing, Precipitating, Prestidigitating, Processing, Proofing, Propagating, Puttering, Puzzling, Quantumizing, Razzmatazzing, Recombobulating, Reticulating, Roosting, Ruminating, Scampering, Schlepping, Scurrying, Seasoning, Shenaniganing, Shimmying, Simmering, Skedaddling, Sketching, Slithering, Smooshing, Spelunking, Spinning, Sprouting, Stewing, Sublimating, Swirling, Swooping, Symbioting, Synthesizing, Tempering, Thinking, Thundering, Tinkering, Tomfoolering, Transfiguring, Transmuting, Twisting, Undulating, Unfurling, Unravelling, Waddling, Wandering, Warping, Whatchamacalliting, Whirlpooling, Whirring, Whisking, Wibbling, Working, Wrangling, Zesting, Zigzagging
