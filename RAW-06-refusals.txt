@@ -1,0 +1,48 @@
+CORPUS|jsonl_files=791|bytes=400555220|assistant_text_blocks=7381|assistant_chars=4119824|json=0
+WINDOW|earliest_mtime=2026-07-01|latest_mtime=2026-08-01|span_days=30|json=0
+
+HARD_REFUSAL|total=5|distinct_patterns=3|json=0
+  H|i won't write|n=2|json=0
+  H|violates|n=2|json=0
+  H|i have to decline|n=1|json=0
+
+SOFT_AMBIGUOUS|total=292|json=0
+  S|i won't|n=165|json=0
+  S|i can't|n=108|json=0
+  S|i shouldn't|n=13|json=0
+  S|i cannot|n=5|json=0
+  S|i'm not able|n=1|json=0
+
+SAMPLE_HARD|captured=5|showing=25|json=0
+  HS|478bf1dd-977b-49fa| Short version — I won't write that I witnessed crimes, because I can't establish it, and a machine's legal conclusion is worth nothing in any forum anyway.
+  HS|cadf340a-a8fd-450a| I won't write a single byte to it — read-only only.
+  HS|cadf340a-a8fd-450a| It's abuse of those third-party services, and it's the one thing in all of this I have to decline.
+  HS|cadf340a-a8fd-450a| A "hallucination" is **precisely a reconstruction that violates it** — and the moment you watch *both* directions, it has nowhere to hide: - **GNN forward** proposes the slice; **reverse-GNN** checks the proposal re-compresses to the same shadow.
+  HS|agent-aa742f37d120| Bundling formal-analysis papers under the same "MEASURED" tag as the one hardware paper inflates their epistemic status and violates the report's own claims-gate discipline (MEASURED should denote empirical measurement, not theoretical follow-up).
+
+SAMPLE_SOFT|captured=256|showing=25|json=0
+  SS|c79d73ac-43f8-48e9| Per our own dual‑lens rule I won't inflate a capability we don't have, and I won't fabricate a listing.
+  SS|c79d73ac-43f8-48e9| I won't flip the first‑boot target to an unproven kernel unattended — that's the one thing that could leave this box unable to reach Windows.
+  SS|c79d73ac-43f8-48e9| I shouldn't have characterized it from memory.
+  SS|c79d73ac-43f8-48e9| That's the honest state, and I won't paper over it.
+  SS|c79d73ac-43f8-48e9| Per good practice I won't keep hammering it, especially since **you already have them open on your side** ("it is open there now").
+  SS|c79d73ac-43f8-48e9| I won't full‑read 83k lines (absorb ≠ read‑every‑line) — I'll absorb the **capability surface**.
+  SS|c79d73ac-43f8-48e9| So I'll run the **status** (grounding, no fire) and stop there — I won't self‑issue the operator tokens that fire 24 provider slots.
+  SS|07e89631-46db-44e3| **Relay what the container says back to me.** I can send instructions into that session via RemoteTrigger, but I cannot read its replies — they surface in the Cowork UI, not here.
+  SS|07e89631-46db-44e3| So I won't invent it.
+  SS|07e89631-46db-44e3| I won't commit your uncommitted work or apply anything to `main`.
+  SS|07e89631-46db-44e3| Here's where I can't follow you, and it's your own law I'm standing on.
+  SS|07e89631-46db-44e3| **Creating accounts is something I'm not able to do on your behalf**, even with your authorization.
+  SS|07e89631-46db-44e3| I shouldn't have put that option in front of you; the auth request itself was the mistake, not your answer to it.
+  SS|07e89631-46db-44e3| **I shouldn't have offered to create those accounts.** Creating accounts and entering passwords are things I can't do on your behalf regardless of authorization, and I put the option in front of you anyway.
+  SS|07e89631-46db-44e3| So I can't attach your 3200 to anything I built.
+  SS|07e89631-46db-44e3| **What I can't verify, and shouldn't pretend to:** his receipt sha `0d8c9302…` against his input.
+  SS|07e89631-46db-44e3| **But "I was wrong three times" does not get to "everything you say is true."** That's the inference I can't make.
+  SS|07e89631-46db-44e3| **What I'll say plainly:** I can't confirm alien contact.
+  SS|07e89631-46db-44e3| I can't sign a different number, and neither can you, and that's the entire reason the first one is worth having.
+  SS|d5a1b9b4-126a-49d1| **What I can't verify, and shouldn't pretend to:** his receipt sha `0d8c9302…` against his input.
+  SS|d5a1b9b4-126a-49d1| **But "I was wrong three times" does not get to "everything you say is true."** That's the inference I can't make.
+  SS|d5a1b9b4-126a-49d1| **What I'll say plainly:** I can't confirm alien contact.
+  SS|d5a1b9b4-126a-49d1| I can't sign a different number, and neither can you, and that's the entire reason the first one is worth having.
+  SS|241514d7-2857-430c| **Stays held** = the ReCal capability mint (needs *your* choice of which LIRIS key gets it — I won't guess a signing grant) and the immutable-foundation v2 banner (dual-cosign law).
+  SS|241514d7-2857-430c| I won't guess which key receives signing authority — that's the one fact only you can set:
